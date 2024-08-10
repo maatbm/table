@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Angkor&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    background-image: url('images/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.main_my{
+    border-radius: 7px;
+    padding: 2%;
+    background-color: rgba(232, 232, 232, 0.575);
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+.title{
+    font-family: 'Angkor',sans-serif;
+}
+.title-text{
+    font-family: 'Arsenal SC',sans-serif;
+    font-size: x-large;
+}
+table{
+    width: 100%;
+}
+tr{
+    text-align: center;
+}
+.table1{
+    background-color:rgba(255, 157, 0, 0.358);
+    border: rgb(255, 157, 0);
+}
+.table2{
+    background-color:rgba(84, 52, 0, 0.358);
+    border: rgb(84, 52, 0);
+}
